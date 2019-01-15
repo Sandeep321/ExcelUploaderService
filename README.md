@@ -1,2 +1,2 @@
 # ExcelUploaderService
-To Upload excel to DB
+Windows service to Bulk Upload excel to DB.
